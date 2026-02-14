@@ -73,7 +73,7 @@ def scan_ports():
 def main():
     while True:
         print("\n" + "=" * 40)
-        print("        Ghostnmap v1.0")
+        print("        SimplePortScanner v1.0")
         print("   Simple Python Port Scanner")
         print("=" * 40)
         print("1. Scan Ports")
@@ -92,3 +92,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
