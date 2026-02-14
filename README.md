@@ -13,4 +13,3 @@ SimplePortscanner is a Python-based TCP port scanning tool developed to understa
 # Environments Used
 
 - Windows 11
-
